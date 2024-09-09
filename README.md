@@ -1,5 +1,13 @@
 # ELKProject
 
+## Project Settings
+- jdk
+- spring boot
+- elastic search
+- logstach
+- kibana
+  
+
 ## Code convention
 
 - 명사는 주어(클래스), 목적어(매개변수,변수)로 사용됨을 인식하고 변수명을 정해자.
