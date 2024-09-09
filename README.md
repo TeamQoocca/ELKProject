@@ -33,17 +33,12 @@
   타입 : 주제(제목) <br>
   바디
 
-- 깃모지 활용
-  https://gitmoji.dev/
-  ```
-  gitmoji -c
-  ```
 
 
 ## git flow
-- master : 최종 브랜치 
-- develop : pr 완료 후 갱신
-- feature : 단위 기능 개발
+- main : 최종 브랜치 
+- dev : pr 완료 후 갱신
+- feat : 단위 기능 개발
 - hotfix : 크리티컬한 버그 긴급 수정
 
 ## branch naming
