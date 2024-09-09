@@ -3,9 +3,9 @@
 ## Project Settings
 - jdk
 - spring boot
-- elastic search
-- logstach
-- kibana
+- elastic search : 8.15.1
+- logstach : 8.15.1
+- kibana : 8.15.1
   
 
 ## Code convention
