@@ -39,5 +39,5 @@
 - hotfix : 크리티컬한 버그 긴급 수정
 
 ## branch naming
-feature-이슈넘버-본인이름(닉네임)
+- feature-이슈넘버-본인이름(닉네임)
 
