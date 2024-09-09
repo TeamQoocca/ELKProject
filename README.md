@@ -33,10 +33,10 @@
 
 
 ## git flow
-master : 최종 브랜치
-develop : pr 완료 후 갱신
-feature : 단위 기능 개발
-hotfix : 크리티컬한 버그 긴급 수정
+- master : 최종 브랜치 
+- develop : pr 완료 후 갱신
+- feature : 단위 기능 개발
+- hotfix : 크리티컬한 버그 긴급 수정
 
 ## branch naming
 feature-이슈넘버-본인이름(닉네임)
