@@ -1,8 +1,8 @@
 # ELKProject
 
 ## Project Settings
-- jdk
-- spring boot
+- jdk : 17
+- spring boot : 3.3.3
 - elastic search : 8.15.1
 - logstach : 8.15.1
 - kibana : 8.15.1
